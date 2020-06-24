@@ -1,0 +1,31 @@
+#cSharp #skills
+0) сам синтаксис
+0) ООП
+0) Структуры данных и алгоритмы
+0) LINQ
+0) Базы данных (MS SQL Server, Transact-SQL, ADO.NET)
+0) entityFramework core, миграции
+0) Nuget
+0) зависимости
+0) XML json
+0) Службы Windows
+0) Паттерны
+0) WCF
+0) MVC в ASP.NET Core
+0) Веб-API ASP.NET Core
+0) Публикация веб апи проекта в сервере на linux
+0) WPF
+0) Razor
+0) Английский язык на уровне чтения технической документации 
+0) HTML и CSS, js
+0) создание nuget пакетов
+0) Работать с облаком
+0) FluentValidation
+0) SignalR Core, Blazor, Razor Pages
+0) Postgresql
+0) Docker
+https://coursehunter.net/course/how-to-c-professional
+https://coursehunter.net/course/algoritmy-i-struktury-dannyh-obnovlennyy
+https://coursehunter.net/course/c-asinhronnoe-programmirovanie
+https://coursehunter.net/course/praktikum-po-algoritmam
+https://coursehunter.net/course/testirovanie-api-s-restsharp-i-specflow-v-c

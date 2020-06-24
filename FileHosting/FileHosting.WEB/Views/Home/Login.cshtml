@@ -1,0 +1,14 @@
+﻿@if (ViewData["error"] != null)
+{
+    <div class="alert alert-danger">@ViewData["error"]</div>
+}
+<div class="login">
+    <Form action="~/Login" method="post">
+        <label>Email</label>
+        <input type="text" name="Email" />
+        <label>Password</label>
+        <input type="password" name="Password" />
+        <input type="hidden" name="ReturnUrl" value="@ViewData["ReturnUrl"]" />
+        <button type="submit" class="registerbtn">Login</button>
+    </Form>
+</div>

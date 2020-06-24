@@ -1,0 +1,16 @@
+﻿@if (ViewData["error"] != null)
+{
+    <div class="">@Html.Raw(@ViewData["error"])</div>
+}
+<div class="login">
+    <Form action="/Registration" method="post">
+        <label>Email</label>
+        <input type="text" name="Email" />
+        <label>Password</label>
+        <input type="password" name="Password" />
+        <label>Confirm password</label>
+        <input type="password" name="ConfirmPassword" />
+        <input type="hidden" name="ReturnUrl" value="@ViewData["ReturnUrl"]" />
+        <button type="submit" class="registerbtn">Зарегистрироваться</button>
+    </Form>
+</div>
